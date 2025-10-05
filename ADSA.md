@@ -1,5 +1,6 @@
 ### Array
 
+
 ---
 
 - [169. Majority Element](https://leetcode.com/problems/majority-element/submissions/1791829381/?envType=problem-list-v2&envId=array)
