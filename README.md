@@ -13,18 +13,22 @@
 -[169. Majority Element]
 -[229. Majority Element II]
 
----
+
 
 ###STRING
+
+---
 
 
 -[299. Bulls and Cows]
 -[49. Group Anagrams]
 -[451. Sort Characters By Frequency]
 
----
+
 
 ###SLIDING WINDOW 
+
+---
 
 
 -[643. Maximum Average Subarray I]
@@ -34,9 +38,12 @@
 -[904. Fruit Into Baskets]
 -[1052. Grumpy Bookstore Owner]    
 
----
+
           
 ###BINARY SEARCH
+
+---
+
 
 
 -[441. Arranging Coins]
@@ -54,6 +61,10 @@
 -[74. Search a 2D Matrix]
 
 LINKED_LIST
+
+---
+
+
 -[237. Delete Node in a Linked List]
 -[876. Middle of the Linked List]
 -[19. Remove Nth Node From End of List]
