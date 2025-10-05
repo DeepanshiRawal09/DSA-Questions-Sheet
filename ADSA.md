@@ -2,17 +2,17 @@
 
 ---
 
-- [169. Majority Element](https://leetcode.com/problems/majority-element/submissions/1770663199/)
-- [26. Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/submissions/1770664848/)
-- [16. 3Sum Closest](https://leetcode.com/problems/3sum-closest/submissions/1770668701/)
-- [80. Remove Duplicates from Sorted Array ||](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/submissions/1770669350/)
-- [2210. Count Hills and Valleys in an Array](https://leetcode.com/problems/count-hills-and-valleys-in-an-array/submissions/1770674079/)
-- [1. Two Sum](https://leetcode.com/problems/two-sum/submissions/1789377560/?envType=problem-list-v2&envId=array)
-- [15. 3Sum]()
-- [59. Spiral Matrix II]()
+- [169. Majority Element](https://leetcode.com/problems/majority-element/submissions/1791829381/?envType=problem-list-v2&envId=array)
+- [26. Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/submissions/1791834198/?envType=problem-list-v2&envId=array)
+- [16. 3Sum Closest]()
+- [80. Remove Duplicates from Sorted Array ||]()
+- [2210. Count Hills and Valleys in an Array]()
+- [1. Two Sum](https://leetcode.com/problems/two-sum/submissions/1791836710/?envType=problem-list-v2&envId=array)
+- [15. 3Sum](https://leetcode.com/problems/3sum/submissions/1791837060/?envType=problem-list-v2&envId=array)
+- [59. Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/submissions/1791837590/?envType=problem-list-v2&envId=array)
 - [283. Move Zeroes]()
 - [75. Sort Colors]()
-- [53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/submissions/1789378575/?envType=problem-list-v2&envId=array)
+- [53. Maximum Subarray]()
 - [229. Majority Element II]()
 
 
